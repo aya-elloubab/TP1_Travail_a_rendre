@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TP1 Travail à Rendre</string>
+    <string name="nom">Nom et Prénom :</string>
+    <string name="email">Email :</string>
+    <string name="phone">Phone :</string>
+    <string name="adress">Adress :</string>
+    <string name="ville">Ville :</string>
+    <string name="envoyer">Envoyer</string>
+    <array name="villes">
+        <item>El Jadida</item>
+        <item>Casablanca</item>
+        <item>Kenitra</item>
+        <item>Rabat</item>
+        <item>Settat</item>
+    </array>
+</resources>
