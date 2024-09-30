@@ -16,7 +16,7 @@ Intent : Utilisé pour passer les informations entre les activités.
 # Installation
 Pour exécuter cette application sur votre propre appareil Android, suivez les étapes ci-dessous :
 
-1. Clonez ce dépôt sur votre machine locale : git clone https://github.com/votre-utilisateur/nom-du-repo.git
+1. Clonez ce dépôt sur votre machine locale : git clone https://github.com/aya-elloubab/TP1_Travail_a_rendre.git
 2. Ouvrez le projet dans Android Studio.
 3. Compilez et exécutez l'application sur un émulateur ou un appareil Android physique.
 
